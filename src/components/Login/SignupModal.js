@@ -126,7 +126,7 @@ const SignupModal = forwardRef(({ props }, modalEl) => {
 
     return (
         <SignupModalOverlay signup="true">
-            <div className="signup_modal_box" ref={modalEl} tabIndex="-1">
+            <div className="signup_modal_box" tabIndex="-1">
                 <div onClick={handleSignupModal}>
                     <span>&#10005;</span>
                 </div>
