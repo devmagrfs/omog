@@ -3,8 +3,7 @@
 
 <br>
 
-# 시연 영상
-- 영상
+# [시연 영상](https://www.youtube.com/embed/uGsDLXacve4)
 
 <br>
 
